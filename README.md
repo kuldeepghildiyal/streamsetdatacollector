@@ -1,7 +1,7 @@
-# streamsetdatacollector
+# Streamset data collector 
 VM ware image for Streamset data collector with Kafka.
 
-Steps to run streamset with kafka server image on #windows machine#.
+Steps to run streamset with kafka server image on #windows machine.
 
 1. Download the image file from the link 
 
