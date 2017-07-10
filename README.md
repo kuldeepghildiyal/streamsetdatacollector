@@ -11,3 +11,6 @@ Steps to run streamset with kafka server on windows machine.
 2. Read attached help file (StreamsetsSetupWithKAFKA.PDF) to configure the stream set.
 
 
+Feel free to send me mail @ kuldeepghildiyal@gmail.com for any question.
+
+
